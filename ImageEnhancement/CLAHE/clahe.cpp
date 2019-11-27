@@ -40,7 +40,7 @@ int main(int argc, char** argv)
    cv::cvtColor(lab_image, image_clahe,cv::COLOR_Lab2BGR);
 
    // display the results  (you might also want to see lab_planes[0] before and after).
-   imwrite( "../image_original.jpg", gray_image );
-   imwrite( "../image_CLAHE.jpg", gray_image );   
+   cv::imwrite( "image_original.jpg", bgr_image );
+   cv::imwrite( "image_CLAHE.jpg", image_clahe );   
    
 }
