@@ -1,0 +1,3 @@
+/home/piero/Documentos/OpenCV_Example/CLAHE/CMakeFiles/rebuild_cache.dir
+/home/piero/Documentos/OpenCV_Example/CLAHE/CMakeFiles/main.dir
+/home/piero/Documentos/OpenCV_Example/CLAHE/CMakeFiles/edit_cache.dir
